@@ -1,3 +1,8 @@
-# API de CNPJ
+# API de CNPJ 
 - Programa Para Buscar Informações Sobre um CNPJ
-- Vídeo de Demostração
+
+
+# Fork em PHP - 
+
+- Consiste em ter varias apis publícas para consulta em liguagem nativa sem dependencias
+- Facíl iplementação direta no codígo fonte  
